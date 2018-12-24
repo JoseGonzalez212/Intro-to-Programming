@@ -4,6 +4,6 @@ def scream(words)
   return
 end
 
-puts scream("Yippeee")
+scream("Yippeee")
   
   
