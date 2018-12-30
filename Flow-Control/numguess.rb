@@ -21,4 +21,14 @@ def evaluate_num(number)
     puts "#{number} is above 100"
   end
 end
+
+# CODE needs end for the if/else statement
+# def equal_to_four(x)
+#   if x == 4
+#     puts "yup"
+#   else
+#     puts "nope"
+# end
+
+# equal_to_four(5)
     
